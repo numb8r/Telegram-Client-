@@ -1,7 +1,5 @@
 # Telegram-Client-
 
-# Telegram Web Client
-
 ## 📝 Project Description
 
 **Telegram Web Client** is a web application for interacting with Telegram, providing a convenient browser-based interface for messaging. The project uses the official Telegram API via the Telethon library and offers the following features:
