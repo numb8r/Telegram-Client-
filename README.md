@@ -32,7 +32,7 @@
 
 ### 1. Install Dependencies
 ```bash
-pip install quart telethon
+pip install -r requirements.txt
 ```
 
 ### 2. Configuration
