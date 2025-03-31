@@ -1,0 +1,33 @@
+:root {
+    --primary: #0088cc;
+    --outgoing-bg: #e3ffd7;
+    --incoming-bg: #ffffff;
+    --unread-badge: #f23d3d;
+}
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+}
+
+#app {
+    display: flex;
+    height: 100vh;
+    max-width: 1200px;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+
+.chat-type-badge {
+    display: inline-block;
+    font-size: 0.7em;
+    background: #e0e0e0;
+    color: #555;
+    padding: 2px 6px;
+    border-radius: 10px;
+    margin-left: 5px;
+}
